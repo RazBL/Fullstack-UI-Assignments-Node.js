@@ -1,0 +1,123 @@
+[
+    {
+        "id": "055f6f44",
+        "name": "Mega Sport",
+        "city": "Tel Aviv",
+        "products": [{
+                "id": "1",
+                "name": "shoes",
+                "price": 350,
+                "sale": 250
+            },
+            {
+                "id": "2",
+                "name": "T-Shirt",
+                "price": 100,
+                "sale": 50
+            },
+            {
+                "id": "3",
+                "name": "Bike",
+                "price": 800,
+                "sale": 760
+            }
+        ]
+    },
+    {
+        "id": "055f71c4",
+        "name": "Zara",
+        "city": "Holon",
+        "products": [{
+                "id": "1",
+                "name": "White T-Shirt",
+                "price": 150,
+                "sale": 100
+            },
+            {
+                "id": "2",
+                "name": "Dress",
+                "price": 420,
+                "sale": 275
+            },
+            {
+                "id": "3",
+                "name": "Hat",
+                "price": 100,
+                "sale": 78
+            }
+        ]
+    },
+    {
+        "id": "055f730e",
+        "name": "H&M",
+        "city": "Rishon",
+        "products": [{
+                "id": "1",
+                "name": "Cap",
+                "price": 150,
+                "sale": 97
+            },
+            {
+                "id": "2",
+                "name": "Sunglasses",
+                "price": 400,
+                "sale": 368
+            },
+            {
+                "id": "3",
+                "name": "Slippers",
+                "price": 80,
+                "sale": 75
+            }
+        ]
+    },
+    {
+        "id": "055f76f6",
+        "name": "KSP",
+        "city": "Tel Aviv",
+        "products": [{
+                "id": "1",
+                "name": "Laptop",
+                "price": 3500,
+                "sale": 3150
+            },
+            {
+                "id": "2",
+                "name": "PlayStation 5",
+                "price": 2349,
+                "sale": 2200
+            },
+            {
+                "id": "3",
+                "name": "Monitor",
+                "price": 800,
+                "sale": 784
+            }
+        ]
+    },
+    {
+        "id": "055f7836",
+        "name": "Bug",
+        "city": "Herzliya",
+        "products": [{
+                "id": "1",
+                "name": "iPhone 14 pro",
+                "price": 4580,
+                "sale": 4240
+            },
+            {
+                "id": "2",
+                "name": "AirPods Pro",
+                "price": 1149,
+                "sale": 998
+            },
+            {
+                "id": "3",
+                "name": "Keyboad",
+                "price": 320,
+                "sale": 290
+            }
+        ]
+    }
+
+]

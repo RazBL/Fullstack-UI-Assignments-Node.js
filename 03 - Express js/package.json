@@ -1,0 +1,14 @@
+{
+	"main": "index.js",
+	"Json": "./db/stores.json",
+	"dependencies": {
+		"express": "^4.18.2"
+	},
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.22"
+	}
+}
